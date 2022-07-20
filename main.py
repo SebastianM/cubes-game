@@ -48,5 +48,3 @@ while run:
   
   pygame.draw.rect(win, red, player)
   pygame.display.update()
-  
-  
